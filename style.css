@@ -1,0 +1,12 @@
+.parent{
+    display:flex;
+    justify-content: left;
+    align-items: left;
+}
+.child{
+    background-color: red;
+    width:100px;
+    height:100px;
+    margin:20px;
+    box-sizing: border-box;
+}
